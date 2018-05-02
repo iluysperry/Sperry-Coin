@@ -1,0 +1,9 @@
+Building Sperry
+
+See doc/readme-qt.rst for instructions on building Sperry-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sperry.
+
+See doc/build-*.txt for instructions on building sperryd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sperry.
