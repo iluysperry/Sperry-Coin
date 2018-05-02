@@ -1,4 +1,4 @@
-Sperry integration/staging tree
+Sperry Coin
 ================================
 
 http://www.sperrytecnologia.com.br
