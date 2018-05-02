@@ -9,14 +9,12 @@ Copyright (c) 2018 Sperry Tecnologia
 What is Sperry Coin?
 ----------------
 
-Sperry Coin is a secure version of Bitcoin using scrypt as a proof-of-work algorithm.
+Sperry Coin is a secure version of Bitcoin using cryptographical kabbalistic numerology 33 provide corrections in blockchain core source using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
- - subsidy halves in 333k blocks (~4 years)
+ - subsidy halves in 333k blocks (~3 years)
  - ~33 million total coins
-
-The rest is the same as Bitcoin.
- - 53 coins per block
- - 2018 blocks to retarget difficulty
+ - 33 coins per block
+ - 1033 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Sperry client sofware, see http://www.sperrytecnologia.com.br
