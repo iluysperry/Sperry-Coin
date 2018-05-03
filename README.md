@@ -55,6 +55,7 @@ remember this is a security-critical project where any mistake might cost people
 lots of money.
 
 ### Automated Testing
+---------------------
 
 Developers are strongly encouraged to write unit tests for new code, and to
 submit new unit tests for old code.
@@ -63,9 +64,43 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
     cd src; make -f makefile.unix test
 
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
+Unit tests for the GUI code are in `src/qt/test/`. To compile and run them: 
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
     ./sperry-qt_test
+    
+### How to install?
+-------------------
+
+Follow the correct recipe order for installation of dependencies and compilation on Ubuntu 16.04. 
+    
+    sudo apt-get install git -y 
+    sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils -y
+    sudo apt-get install libboost-system-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev -y
+    sudo apt-get install libboost-filesystem-dev libboost-all-dev -y
+    sudo apt-get install software-properties-common -y
+    sudo add-apt-repository ppa:bitcoin/bitcoin
+    sudo apt-get update
+    sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
+    sudo apt-get install libminiupnpc-dev -y
+    sudo apt-get install libzmq3-dev -y
+    sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler -y
+    sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler -y
+        
+Clone Sperry Coin source code from github
+    
+    sudo git clone https://github.com/iluysperry/Sperry-Coin.git && mv Sperry-Coin/ sperry
+    
+Compile source code and wallet  
+    
+    sudo cd /root/sperry/src && make -f makefile.unix
+    sudo cd /root/sperry/ && qmake && make 
+
+### How to use?
+-------------------
+
+Run this commands in path directory of installation "/sperry/" 
+    
+    ./sperry-qt  -------> Grafical wallet
 
