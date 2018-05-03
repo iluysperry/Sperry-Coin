@@ -3,7 +3,7 @@ Sperry Coin
 
 http://www.sperrytecnologia.com.br
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers |
 Copyright (c) 2015-2018 Sperry Tecnologia 
 
 What is Sperry Coin?
