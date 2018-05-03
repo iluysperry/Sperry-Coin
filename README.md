@@ -9,7 +9,10 @@ Copyright (c) 2015-2018 Sperry Tecnologia
 What is Sperry Coin?
 ----------------
 
-Sperry Coin is a secure version of Bitcoin using cryptographical kabbalistic numerology, provide corrections in blockchain source using scrypt as a proof-of-work algorithm.
+Sperry Coin is more than a coin is an secure and customizable blockchain using cryptographical kabbalistic numerology provides new features in blockchain source using scrypt as a proof-of-work algorithm.
+
+Using a fork of Bitcoin and Litcoin building a exclusive updated blockchain full of features and novelties based on cabalistic numerology.
+
  - 2 minute block targets
  - subsidy halves in 333k blocks (~3 years)
  - ~33 million total coins
