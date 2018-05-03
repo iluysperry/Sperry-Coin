@@ -9,7 +9,7 @@ Copyright (c) 2015-2018 Sperry Tecnologia
 What is Sperry Coin?
 ----------------
 
-Sperry Coin is a secure version of Bitcoin using cryptographical kabbalistic numerology 33 provide corrections in blockchain source using scrypt as a proof-of-work algorithm.
+Sperry Coin is a secure version of Bitcoin using cryptographical kabbalistic numerology, provide corrections in blockchain source using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
  - subsidy halves in 333k blocks (~3 years)
  - ~33 million total coins
@@ -94,13 +94,24 @@ Clone Sperry Coin source code from github
     
 Compile source code and wallet  
     
-    cd /root/sperry/src && make -f makefile.unix
-    cd /root/sperry/ && qmake && make 
+    cd /root/sperry/src && make -f makefile.unix      -----> Core
+    cd /root/sperry/ && qmake && make                 -----> Grafical Wallet
 
 ### How to use?
 -------------------
 
-Run this commands in path directory of installation "/sperry/" 
+# GUI 
+
+Run this commands in path directory of installation /sperry/ 
     
     ./sperry-qt  -------> Grafical wallet
+    
+# CORE  
+
+Run this commands in path directory of installation /sperry/src
+    
+    ./sperryd -daemon            -------> Start server  
+    ./sperryd getinfo            -------> General info
+    ./sperryd setgenerate true   -------> Start solo mining 
+    ./sperryd getbalance         -------> Coinbase balance
 
