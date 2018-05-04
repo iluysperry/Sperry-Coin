@@ -102,7 +102,7 @@ Compile source code and wallet
 ### How to use?
 -------------------
 
-### GUI
+### GUI WALLET
 -------
 Run this commands in path directory of installation /sperry/ 
     
@@ -122,7 +122,7 @@ List all commands
     
     ./sperryd help 
     
-### Block explorer?
+### Block explorer
 -------------------  
 http://explorer.sperrytecnologia.com.br
     
