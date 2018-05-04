@@ -1089,8 +1089,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 {
     int64 nSubsidy = 33 * COIN;
 
-    // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 333000); // Sperry: 333k blocks in ~4 years
+    // Subsidy is cut in half every 333000 blocks, which will occur approximately every 3 years
+    nSubsidy >>= (nHeight / 333000); // Sperry: 333k blocks in ~3 years
 
     return nSubsidy + nFees;
 }
