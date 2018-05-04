@@ -101,15 +101,12 @@ Compile source code and wallet
 
 ### How to use?
 -------------------
-
-### GUI WALLET
--------
+## GUI WALLET
 Run this commands in path directory of installation /sperry/ 
     
     ./sperry-qt  -------> Grafical wallet
     
 ### CORE FULL NODE
--------
 Run this commands in path directory of installation /sperry/src
     
     ./sperryd -daemon            -------> Start server  
