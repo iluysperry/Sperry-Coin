@@ -122,4 +122,22 @@ List all commands
 ### Block explorer
 -------------------  
 http://explorer.sperrytecnologia.com.br
+
+
+
+
+### Windows x32_64 wallet installer and portable executable 
+
+Windows Installer: https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-0.8.7.5-win32-setup.exe
+
+Windows Portable: https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-qt.exe
+
+After running the wallet, wait to synchronize with sperry blockchain...
+
+                ( (
+                ) )
+             ........
+             |      |]    Coffe? 
+             \      /     
+              `----'
     
