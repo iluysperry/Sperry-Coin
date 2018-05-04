@@ -116,5 +116,7 @@ Run this commands in path directory of installation /sperry/src
     ./sperryd -daemon            -------> Start server  
     ./sperryd getinfo            -------> General info
     ./sperryd setgenerate true   -------> Start solo mining 
-    ./sperryd getbalance         -------> Coinbase balance
+    ./sperryd gethashespersec    -------> Current mining hashrate 
+    ./sperryd getbalance         -------> Balance
+    
 
