@@ -103,14 +103,14 @@ Compile source code and wallet
 ### How to use?
 -------------------
 
-### GUI 
-
+## GUI
+-------
 Run this commands in path directory of installation /sperry/ 
     
     ./sperry-qt  -------> Grafical wallet
     
-### CORE  
-
+## CORE  
+-------
 Run this commands in path directory of installation /sperry/src
     
     ./sperryd -daemon            -------> Start server  
