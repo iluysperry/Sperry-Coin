@@ -16,7 +16,7 @@ Using a fork of Bitcoin and Litcoin building a exclusive updated blockchain full
  - subsidy halves in 333k blocks (~3 years)
  - ~33 million total coins
  - 33 coins per block
- - 1033 blocks to retarget difficulty
+ - 333000 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Sperry client sofware, see http://www.sperrytecnologia.com.br
