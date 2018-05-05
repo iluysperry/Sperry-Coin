@@ -130,14 +130,6 @@ Portable: https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-qt.
 
 After running the wallet, wait to synchronize with sperry blockchain...
 
-                ( (
-                ) )
-             ........
-             |      |]    Coffe? 
-             \      /     
-              `----'
-
-
 ### Block explorer
 -------------------  
 
