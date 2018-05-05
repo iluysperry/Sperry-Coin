@@ -124,7 +124,7 @@ List all commands
 ### Block explorer
 -------------------  
 
-http://explorer.sperrytecnologia.com.br
+http://explorer.sperrytecnologia.com.br <br><br/>
 http://107.180.27.127
 
 ### Windows wallet
@@ -148,5 +148,5 @@ After running the wallet, wait to synchronize with sperry blockchain...
 ### Minig pool 
 --------------------
 
-http://pool.sperrytecnologia.com.br
+http://pool.sperrytecnologia.com.br <br><br/>
 http://35.199.108.189
