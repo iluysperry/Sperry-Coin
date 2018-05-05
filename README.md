@@ -121,12 +121,6 @@ List all commands
     
     ./sperryd help 
     
-### Block explorer
--------------------  
-
-http://explorer.sperrytecnologia.com.br <br><br/>
-http://107.180.27.127
-
 ### Windows wallet
 --------------------
 
@@ -142,6 +136,13 @@ After running the wallet, wait to synchronize with sperry blockchain...
              |      |]    Coffe? 
              \      /     
               `----'
+
+
+### Block explorer
+-------------------  
+
+http://explorer.sperrytecnologia.com.br <br><br/>
+http://107.180.27.127
 
 
     
