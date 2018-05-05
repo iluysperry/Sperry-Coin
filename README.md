@@ -16,6 +16,8 @@ Using a fork of Bitcoin and Litcoin building a exclusive updated blockchain full
  - subsidy halves in 333k blocks (~3 years)
  - ~33 million total coins
  - 33 coins per block
+ - Fast blocks 
+ - Kabbalistic Algorithm
  
 
 For more information, as well as an immediately useable, binary version of
