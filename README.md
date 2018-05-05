@@ -18,6 +18,7 @@ Using a fork of Bitcoin and Litcoin building a exclusive updated blockchain full
  - 33 coins per block
  - Fast blocks 
  - Kabbalistic Algorithm
+ - Scrypt 
  
 
 For more information, as well as an immediately useable, binary version of
@@ -103,23 +104,24 @@ Compile source code and wallet
 
 ### How to use?
 -------------------
-## GUI WALLET
-Run this commands in path directory of installation /sperry/ 
+
+## Wallet gui 
+Run this commands from terminal in path directory of installation /sperry/ 
     
-    ./sperry-qt  -------> Grafical wallet
+    ./sperry-qt                      -------> Open grafical wallet
     
-### CORE FULL NODE
-Run this commands in path directory of installation /sperry/src
+### Wallet core
+Run this commands from terminal in path directory of installation /sperry/src
     
-    ./sperryd -daemon            -------> Start server  
-    ./sperryd getinfo            -------> General info
-    ./sperryd setgenerate true   -------> Start solo mining 
-    ./sperryd gethashespersec    -------> Current mining hashrate 
-    ./sperryd getbalance         -------> Balance
-    
-List all commands 
-    
-    ./sperryd help 
+    ./sperryd -daemon                -------> Start server  
+    ./sperryd getinfo                -------> General info
+    ./sperryd setgenerate true       -------> Start mining 
+    ./sperryd setgenerate false      -------> Stop mining 
+    ./sperryd gethashespersec        -------> Current mining hashrate 
+    ./sperryd getaccountaddress ""   -------> Wallet Address
+    ./sperryd getbalance             -------> Balance
+    ./sperryd help                   -------> List all commands 
+     
     
 ### Windows wallet
 --------------------
