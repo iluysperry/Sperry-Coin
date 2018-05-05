@@ -141,9 +141,4 @@ After running the wallet, wait to synchronize with sperry blockchain...
               `----'
 
 
-### Minig pool 
---------------------
-
-http://pool.sperrytecnologia.com.br
-
     
