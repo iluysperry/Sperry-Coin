@@ -136,7 +136,7 @@ After running the wallet, wait to synchronize with sperry blockchain...
 -------------------  
 
 http://explorer.sperrytecnologia.com.br <br><br/>
-http://107.180.27.127
+http://35.200.11.206
 
 ### Mining pool
 -------------------  
