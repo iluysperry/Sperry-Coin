@@ -138,10 +138,3 @@ After running the wallet, wait to synchronize with sperry blockchain...
 http://explorer.sperrytecnologia.com.br <br><br/>
 http://107.180.27.127
 
-
-    
-### Minig pool 
---------------------
-
-http://pool.sperrytecnologia.com.br <br><br/>
-http://35.199.108.189
