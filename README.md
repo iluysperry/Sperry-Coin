@@ -131,15 +131,3 @@ Installer: https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-0.
 Portable: https://github.com/iluysperry/Wallet-Sperry-Coin/raw/master/sperry-qt.exe
 
 After running the wallet, wait to synchronize with sperry blockchain...
-
-### Block explorer
--------------------  
-
-<br><br/>
-Update...
-
-### Mining pool
--------------------  
-
-<br><br/>
-Update...
